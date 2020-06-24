@@ -8,3 +8,5 @@ The script operates bicubic interpolation smoothing on dark and white reference 
 
 'Sisuchema_SWIR_import.m' script was thought for working with MATLAB® 2016a ver. 9.0 alongside PLS_toolbox ver. 8.2.
 Please note: it may requires a lot of RAM!
+
+[![DOI](https://zenodo.org/badge/274688908.svg)](https://zenodo.org/badge/latestdoi/274688908)
