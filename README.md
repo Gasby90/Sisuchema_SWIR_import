@@ -1,5 +1,5 @@
 # Sisuchema_SWIR_import
-The 'Sisuchema_SWIR_import.m' allows to import raw and calibration data from SisuChema XL Spectrophotometer into MATLAB and calculates the effective reflectance data cube. 
+The 'Sisuchema_SWIR_import.m' allows to import raw and calibration data acquired by SisuChema XL Spectrophotometer into MATLAB and calculates the effective reflectance data cube. 
 The following is the procedure to follow when running “Sisuchema_SWIR_import.m”:
 1.	Open .hdr raw data,
 2.	Open .hdr dark reference,
