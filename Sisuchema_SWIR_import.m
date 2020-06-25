@@ -2,7 +2,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% Sisuchema SWIR importer %%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%% Riccardo Gasbarrone and Roberta Palmieri 2016 %%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This script allow to import raw and calibration data into MatLab
+% This script allows to import raw and calibration data into MatLab
 % calculating the spectra reflectance correction.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %info
